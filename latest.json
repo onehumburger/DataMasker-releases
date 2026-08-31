@@ -1,0 +1,29 @@
+{
+  "payload": {
+    "version": "2.5.0",
+    "published": "2026-08-31",
+    "notes": "本版含 34 个精度批的识别改进与一项新功能。\n\n识别改进（节选）\n· 律师、董事、顾问、业务员、部门经理等 50 类职务标签后的姓名现已全部脱敏（原先仅 21 类）\n· 银行名（如「XX Bank」无后缀形）此前整族漏脱，已修复\n· 香港身份证号、马来西亚身份证号、美国 EIN、马耳他/法国/荷兰企业登记号、港股代码等新增覆盖\n· 繁体文书的机构名边界、司法称谓、罗马化人名识别显著改善\n· 修复导出环节静默丢弃已识别项的缺陷（此前会导致导出文件中残留明文）\n· 修复同一实体被分配多个化名、以及两个不同法人被合并为同一化名的问题\n\n新功能\n· 应用内更新检查：每天最多一次仅检查版本号，不上传任何数据；可在「版本与更新」中关闭",
+    "key": "v1",
+    "assets": {
+      "darwin-arm64": {
+        "url": "https://github.com/onehumburger/DataMasker-releases/releases/download/v2.5.0/DataMasker-Trial-macOS-AppleSilicon-v2.5.0.dmg",
+        "sha256": "5c0b795641308011bc2b7c018b6060b30ca5b9805383cf04460ec058809691c4",
+        "kind": "dmg",
+        "size": 143621785
+      },
+      "darwin-x86_64": {
+        "url": "https://github.com/onehumburger/DataMasker-releases/releases/download/v2.5.0/DataMasker-Trial-macOS-Intel-v2.5.0.dmg",
+        "sha256": "0851096a51b39fe79a2674bbdbfcec66fdebde03ce5e1a88adfe635b6cf68567",
+        "kind": "dmg",
+        "size": 137914810
+      },
+      "win32-amd64": {
+        "url": "https://github.com/onehumburger/DataMasker-releases/releases/download/v2.5.0/DataMasker-Trial-Windows-Setup-v2.5.0.exe",
+        "sha256": "210f03038400d44377c5ecbb2ecdeb31b68593945f9173406598f2d508503372",
+        "kind": "exe",
+        "size": 98028763
+      }
+    }
+  },
+  "sig": "hPsm4ulgRCMxObA0YsSz9A1byk0a0kB3RZbJcLbLc51m57EM5d/XMcWf2eV+i7LOUe3fQNenODnuzOba1xNICQ=="
+}
