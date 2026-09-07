@@ -1,29 +1,29 @@
 {
   "payload": {
     "version": "2.5.0",
-    "published": "2026-09-04",
+    "published": "2026-09-07",
     "notes": "",
     "key": "v1",
     "assets": {
       "darwin-arm64": {
         "url": "https://github.com/onehumburger/DataMasker-releases/releases/download/v2.5.0/DataMasker-Trial-macOS-AppleSilicon-v2.5.0.dmg",
-        "sha256": "b8e65e0c04026faa76e4bb6d263d27da7622a2d786963724706fb42ff887738d",
+        "sha256": "ebfd5e71a1ebd3fd7ecdfe318d45eb5b3d392573712c3e10e4d2d2554ea2063d",
         "kind": "dmg",
-        "size": 144176486
+        "size": 144047266
       },
       "darwin-x86_64": {
         "url": "https://github.com/onehumburger/DataMasker-releases/releases/download/v2.5.0/DataMasker-Trial-macOS-Intel-v2.5.0.dmg",
-        "sha256": "1347477d18f8f33d946a01cd12bf2c1b7173578ccaa4ab99dbda0dafb553e184",
+        "sha256": "9e90a5b79b52d22fef695059beec6467826c1a9c764c3879250eabb0aae4eb1c",
         "kind": "dmg",
-        "size": 137240257
+        "size": 138526772
       },
       "win32-amd64": {
         "url": "https://github.com/onehumburger/DataMasker-releases/releases/download/v2.5.0/DataMasker-Trial-Windows-Setup-v2.5.0.exe",
-        "sha256": "30d1f39bdd1598a6e49c4928bb2004ca6fae6f83b8849cdb20741a37e190d1ee",
+        "sha256": "95ce267cf133e4d20de5fe3b2ff0066a745a106ee1847aa31effc1f3e8b66044",
         "kind": "exe",
-        "size": 98210230
+        "size": 98344213
       }
     }
   },
-  "sig": "XjlnN+1FLHxSMIrmPermnehmQ1hjbwP7ppwXIPRLN3LplLA4Io9JcTkgYfmhcSJ6poTH1N2GpWD1vea7Yc1wAg=="
+  "sig": "jzJSaHyW2KgAYJynkamP8IvTFJN81BGNvhI5Vje8wD31oeoiEgMVB95Gqg7RCANPRDUnJ5xS9m8GwZphnGI1Dg=="
 }
