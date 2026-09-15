@@ -1,29 +1,29 @@
 {
   "payload": {
-    "version": "2.5.0",
-    "published": "2026-09-08",
-    "notes": "",
+    "version": "2.5.1",
+    "published": "2026-09-15",
+    "notes": "脱敏识别精度持续改进；英文PDF自动脱敏修复；导出完成后可一键打开所在文件夹；更新通道安全加固。",
     "key": "v1",
     "assets": {
       "darwin-arm64": {
-        "url": "https://github.com/onehumburger/DataMasker-releases/releases/download/v2.5.0/DataMasker-Trial-macOS-AppleSilicon-v2.5.0.dmg",
-        "sha256": "0cbe956395c167894e0e8ba53b62105b19ee6767458a842da415a4273d489961",
+        "url": "https://github.com/onehumburger/DataMasker-releases/releases/download/v2.5.1/DataMasker-Trial-macOS-AppleSilicon-v2.5.1.dmg",
+        "sha256": "900c7eabf899ddf6b0d6a43dab575d2034eb68cf3bf80f1031e2a15a341cb3d9",
         "kind": "dmg",
-        "size": 144385320
+        "size": 144295971
       },
       "darwin-x86_64": {
-        "url": "https://github.com/onehumburger/DataMasker-releases/releases/download/v2.5.0/DataMasker-Trial-macOS-Intel-v2.5.0.dmg",
-        "sha256": "0e1d1c7a9d195b12ec38faca8ba296736d699239a44443956405b05843df1171",
+        "url": "https://github.com/onehumburger/DataMasker-releases/releases/download/v2.5.1/DataMasker-Trial-macOS-Intel-v2.5.1.dmg",
+        "sha256": "95c5e5ab198279bcb06b7ce26ea448d60c2599303c875efa16944559566e603f",
         "kind": "dmg",
-        "size": 137328685
+        "size": 138135984
       },
       "win32-amd64": {
-        "url": "https://github.com/onehumburger/DataMasker-releases/releases/download/v2.5.0/DataMasker-Trial-Windows-Setup-v2.5.0.exe",
-        "sha256": "c418cdbcffc4cfbe3566cec3ce2d9e4d5d8ee1d1c241e900082a95f87d20495a",
+        "url": "https://github.com/onehumburger/DataMasker-releases/releases/download/v2.5.1/DataMasker-Trial-Windows-Setup-v2.5.1.exe",
+        "sha256": "3b116532cf2f32e2dfa53f225b80105ed02dc95bc757839462367f34e0567eda",
         "kind": "exe",
-        "size": 98448329
+        "size": 98537485
       }
     }
   },
-  "sig": "cNIYuliNj/sNC1HwfrcgMRtTpDALIFngmU1jMxTasfe6M14Mw4VyiBt/TFgruBHSU9rFbfeTRm3LkbcE7JDOCA=="
+  "sig": "Yt4lMrUGbiDjqzyJ3Cgg4CjwbiU4vUMWsHkgDxytwpPCQPm1uRrrd+KEKlMwvd9DYev27FP2EeZqgdFWdcCgAg=="
 }
