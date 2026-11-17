@@ -1,29 +1,29 @@
 {
   "payload": {
-    "version": "2.5.1",
-    "published": "2026-09-15",
-    "notes": "脱敏识别精度持续改进；英文PDF自动脱敏修复；导出完成后可一键打开所在文件夹；更新通道安全加固。",
+    "version": "2.6.0",
+    "published": "2026-11-17",
+    "notes": "脱敏识别覆盖约105种新增法律文书体裁（简体／繁体港式／英文／港交所配对）；整篇脱敏速度较上版约快1.5–1.8倍；PDF涂黑通道与文本通道一致；含v2.5.2全部内容（许可协议随包、应用改名、PDF提取层修复）。",
     "key": "v1",
     "assets": {
       "darwin-arm64": {
-        "url": "https://github.com/onehumburger/DataMasker-releases/releases/download/v2.5.1/DataMasker-Trial-macOS-AppleSilicon-v2.5.1.dmg",
-        "sha256": "900c7eabf899ddf6b0d6a43dab575d2034eb68cf3bf80f1031e2a15a341cb3d9",
+        "url": "https://github.com/onehumburger/DataMasker-releases/releases/download/v2.6.0/DataMasker-Trial-macOS-AppleSilicon-v2.6.0.dmg",
+        "sha256": "7cb411954891e1a15266e0a6382c7b965edb6be274de8e39265703edc8f3b4f7",
         "kind": "dmg",
-        "size": 144295971
+        "size": 158237827
       },
       "darwin-x86_64": {
-        "url": "https://github.com/onehumburger/DataMasker-releases/releases/download/v2.5.1/DataMasker-Trial-macOS-Intel-v2.5.1.dmg",
-        "sha256": "95c5e5ab198279bcb06b7ce26ea448d60c2599303c875efa16944559566e603f",
+        "url": "https://github.com/onehumburger/DataMasker-releases/releases/download/v2.6.0/DataMasker-Trial-macOS-Intel-v2.6.0.dmg",
+        "sha256": "cb4bfad69d9974bc859d1430f21fbc3c65ef8d9dc2c30de9f807ea9dc070feae",
         "kind": "dmg",
-        "size": 138135984
+        "size": 155492904
       },
       "win32-amd64": {
-        "url": "https://github.com/onehumburger/DataMasker-releases/releases/download/v2.5.1/DataMasker-Trial-Windows-Setup-v2.5.1.exe",
-        "sha256": "3b116532cf2f32e2dfa53f225b80105ed02dc95bc757839462367f34e0567eda",
+        "url": "https://github.com/onehumburger/DataMasker-releases/releases/download/v2.6.0/DataMasker-Trial-Windows-Setup-v2.6.0.exe",
+        "sha256": "fc38b777e39967dcaf963fbde118e7976ede4f6edb9b05533c2a7a78235d8ac7",
         "kind": "exe",
-        "size": 98537485
+        "size": 106508335
       }
     }
   },
-  "sig": "Yt4lMrUGbiDjqzyJ3Cgg4CjwbiU4vUMWsHkgDxytwpPCQPm1uRrrd+KEKlMwvd9DYev27FP2EeZqgdFWdcCgAg=="
+  "sig": "4SjblP2BxcAoCuCxai/2ScgkmvpcC43QdsSNyyiZdwN1IKkQAzc7Q81kI+3uhe84SZpTz2fYf01ATG0QljO7AQ=="
 }
